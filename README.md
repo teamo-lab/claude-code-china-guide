@@ -25,7 +25,7 @@ claude --version
 
 以 TeamoRouter 为例：
 
-1. 注册，在控制台充值（支付宝，最低 5 美元），创建 API Key。
+1. 注册，在控制台充值（支付宝或刷卡，最低 5 美元；手上有 USDT 的也可以直接付，见 [USDT 充值步骤](https://teamorouter.com/zh/blogs/pay-claude-with-usdt)），创建 API Key。
 2. 按[接入文档](https://teamorouter.com/zh/docs/install-claude-code)设置两个环境变量：`ANTHROPIC_BASE_URL` 和 `ANTHROPIC_AUTH_TOKEN`。
 3. 在项目目录里运行 `claude`，模型 ID 和官方一致，比如 `claude-sonnet-5-5`、`claude-opus-5-5`。
 
