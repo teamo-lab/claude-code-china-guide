@@ -57,3 +57,4 @@ claude --version
 
 - [Claude 国内怎么用](https://teamorouter.com/zh/blogs/claude-guonei-zenme-yong)
 - [Claude API 中转](https://teamorouter.com/zh/claude-api-zhongzhuan)
+- [新模型上线当天的型号 ID、官方价和调用示例](https://github.com/teamo-lab/new-llm-api-releases#中文)
